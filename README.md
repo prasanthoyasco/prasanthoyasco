@@ -2,7 +2,7 @@
 <h3 align="left">🚀 Full Stack Developer | MERN | AWS | Java <br>🎯 Passionate about solving problems and building scalable applications <br> 💡 Interested in cloud computing, and software development</h3>
 
 
-- 🔭 I’m currently working on [Edureka As Full Stack Dev](https://learning.edureka.co/)
+- 🔭 I’m currently working on [Atelier Creations As SDE2](https://github.com/Atelier-Creation)
 
 - 🌱 I’m currently learning **System Design,Python,GO**
 
